@@ -72,8 +72,10 @@ Traumatic injury
   - **Load Balancing Rule**: Defined to balance HTTP traffic (port 80) across the VMs.
   - **Health Probe**: Set up to monitor the health of the VMs and ensure traffic is routed only to healthy VMs.
 
-### 6. Testing and Accessing the Website
-- After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Users can interact with **Brain-Diseases** to generate outfits from their clothing uploads.
+# Project Description:
+The Brain Diseases Static Web Page project involves Reducing appropritate Brain Diseases for seniors and childrens. The project was deployed on Microsoft Azure using several core services to ensure scalability, reliability, and security.
+
+The infrastructure includes a Virtual Network (VNET) with two subnets, ensuring network security and proper segmentation. Two Virtual Machines (VMs) were created manually and configured within an Availability Set to ensure high availability. A Load Balancer was set up to distribute traffic between the VMs, providing a seamless experience for users. The static web page was deployed using custom code and is hosted on these VMs, accessible via the Load Balancer.
 
 ## Azure Services and Tools Used
 
@@ -89,8 +91,8 @@ Traumatic injury
 
 ## Live Website and Resources
 
-- **Website Link**: [Brain-Diseases](file:///C:/Users/kosna/OneDrive/Desktop/Static%20Website%20of%20Brain%20Disease/html/index.html)
-- **Demo Video**: [YouTube Demo](https://1drv.ms/v/c/a5bf4445a70cc8aa/EWdhu_1YTh9Jr4A1hSxzl0EBXdOJ5VJ8VwlYw9UiEal1WQ?e=j7rhPO)
+- **Website Link**: [Brain-Diseases](https://1drv.ms/v/c/a5bf4445a70cc8aa/EQnqn3qE2bRIjkfeN6yJdLsBJY_Via6aSi0XwNP2dYJsgw?e=MdEU6N)
+- **Project Video**: [Project Video](https://1drv.ms/v/c/a5bf4445a70cc8aa/EWdhu_1YTh9Jr4A1hSxzl0EBXdOJ5VJ8VwlYw9UiEal1WQ?e=j7rhPO)
 - **Screenshots**:
   **Created Resource Group Screenshot**
   - ![ResourceGroup Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RG.png)
