@@ -99,13 +99,13 @@ Traumatic injury
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](https://github.com/Haritha-Kosna/Brain-diseases/blob/main/Screenshot%202024-09-12%20072415.png)
+  - ![ResourceGroup Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RGoutput.png)
     
   **ResourceGroup Deployment Output**
-  - ![RSG-Deployment-output Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Rgoutput.png)
+  - ![RSG-Deployment-output Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RG output.png)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/NSG%20%26Vnet.png)
+  - ![VNetDeploymentoutputSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/NSG&Vnet.png)
 
    **Created VNet Screenshot** 
   - ![VNetSS Screenshot](vnet.png )
