@@ -39,7 +39,7 @@ Traumatic injury
 - ** Brain - Diseases **: A static website allowing users to book doctor's appointment for brain diseases and pay for appointmentcharges online.
 
 ### 2. Deploying the Website on GitHub
-- Frontend of  ** Brain - Diseases ** was uploaded to a public GitHub repository: [Brain-Diseases](https://github.com/CHinnaSR/Sitara-Hotel.git)
+- Frontend of  ** Brain - Diseases ** was uploaded to a public GitHub repository: [Brain-Diseases](https://github.com/Haritha-Kosna/myprojectAZ.git)
 
 ### 3. Azure Deployment Using ARM Templates
 - **Resource Group**: Created using Azure CLI to hold all the resources.
@@ -74,12 +74,6 @@ Traumatic injury
 
 ### 6. Testing and Accessing the Website
 - After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Users can interact with **Brain-Diseases** to generate outfits from their clothing uploads.
-
-## How to Use Sitara-Hotel
-
-1.Open the website and open BookNow Right to top Corner of webpage.
-2. Then it take to booking form fill the  and select type of room required.
-3. By adding Payment details and confirm your stay.
 
 ## Azure Services and Tools Used
 
