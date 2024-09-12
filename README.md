@@ -56,9 +56,12 @@ Traumatic injury
   #!/bin/bash
   sudo apt update
   sudo apt install nginx git -y
-  cd /tmp && git clone https://github.com/CHinnaSR/Sitara-Hotel.git
+  cd /tmp && git clone https://github.com/Haritha-Kosna/Brain-diseases.git mysite
   sudo rm -rf /var/www/html/index.nginx-debian.html
-  sudo cp -r /tmp/mysitee/* /var/www/html/
+  sudo cp -r /tmp/mysite/* /var/www/html
+  cd /var/www/html/
+  sudo chown -R www-data:www-data /var/www/html
+  sudo chmod -R 755 /var/www/html
   ```
 - **VM 2**: Created in Availability Zone 2 with the same configuration as VM 1.
 
@@ -111,10 +114,10 @@ Traumatic injury
   - ![SubnetSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Subnet.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Vm01.png)
+  - ![VM1SS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Vm1.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/vm02.png)
+  - ![VM2SS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Vm2.png)
 
   **Deployed LoadBalancer Screenshot**
   - ![LoadbalancerSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/LoadBalancer.png)
