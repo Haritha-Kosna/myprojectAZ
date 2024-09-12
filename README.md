@@ -117,8 +117,7 @@ Traumatic injury
   - ![VM2SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/vm02.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/LoadBalancer.png
-)
+  - ![LoadbalancerSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/LoadBalancer.png)
 
   **Website Home Page Screenshot**
   - ![Brain-Diseases Homepage Screenshot](https://github.com/Haritha-Kosna/Brain-diseases/blob/main/Screenshot%202024-09-04%20122507.png)
