@@ -108,10 +108,10 @@ Traumatic injury
   - ![VNetDeploymentoutputSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/NSG&Vnet.png)
 
    **Created VNet Screenshot** 
-  - ![VNetSS Screenshot](vnet.png )
+  - ![VNetSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Vnet.png)
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Subnet.png)
+  - ![SubnetSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/subnet.png)
 
    **Deployed VM 1 Screenshot**
   - ![VM1SS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Vm1.png)
@@ -123,7 +123,7 @@ Traumatic injury
   - ![LoadbalancerSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/LoadBalancer.png)
 
   **Website Home Page Screenshot**
-  - ![Brain-Diseases Homepage Screenshot](https://github.com/Haritha-Kosna/Brain-diseases/blob/main/Screenshot%202024-09-04%20122507.png)
+  - ![Brain-Diseases Homepage Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Home.png)
 
   **Generate Book Now after complete Deployment**
   - ![GenerateOutfitsPage Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/contact.png)
