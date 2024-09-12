@@ -99,10 +99,10 @@ Traumatic injury
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RGoutput.png)
+  - ![ResourceGroup Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RG.png)
     
   **ResourceGroup Deployment Output**
-  - ![RSG-Deployment-output Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RG output.png)
+  - ![RSG-Deployment-output Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/RGoutput.png)
 
   **VNet Subnets RSG ARM Template Output**
   - ![VNetDeploymentoutputSS Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/NSG&Vnet.png)
