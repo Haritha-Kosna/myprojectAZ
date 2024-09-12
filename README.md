@@ -126,7 +126,7 @@ Traumatic injury
   - ![Brain-Diseases Homepage Screenshot](https://github.com/Haritha-Kosna/Brain-diseases/blob/main/Screenshot%202024-09-04%20122507.png)
 
   **Generate Book Now after complete Deployment**
-  - ![GenerateOutfitsPage Screenshot]()
+  - ![GenerateOutfitsPage Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/contact.png)
 
   **About Doctor's suggestion Page after complete Deployment**
   - ![About appointment Page Screenshot](https://github.com/Haritha-Kosna/myprojectAZ/blob/main/Doctor.png)
