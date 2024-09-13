@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Brain Diseases** is a website that The brain is the most complex part of the human body. This three-pound organ is the seat of intelligence, interpreter of the senses, initiator of body movement, and controller of behavior. Lying in its bony shell and washed by protective fluid, the brain is the source of all the qualities that define our humanity. The site aims to simplify the decision-making process by providing users to get better treatment for brain related diseases. 
+**Brain Diseases** is a website of the brain related disesases.The brain is the most complex part of the human body. This three-pound organ is the seat of intelligence, interpreter of the senses, initiator of body movement, and controller of behavior. Lying in its bony shell and washed by protective fluid, the brain is the source of all the qualities that define our humanity. The site aims to simplify the decision-making process by providing users to get better treatment for brain related diseases. 
 
 This project demonstrates the deployment of **Brain Diseases** using Azure's ARM templates and load balancing across two Virtual Machines (VMs) in different availability zones for high availability and scalability.
 
@@ -27,7 +27,7 @@ Traumatic injury
 
 1. **Azure CLI**: Used to create the resource group and Virtual Network.
 2. **ARM Templates**: Automated the creation of VNet, subnets, and NSG.
-3. **Azure Virtual Machines (VMs)**: Hosted the Sitara-Hotel website.
+3. **Azure Virtual Machines (VMs)**: Hosted the Brain Disease website.
 4. **Azure Load Balancer**: Distributed the traffic between two VMs to ensure high availability.
 5. **Nginx**: Used as a web server on both VMs to serve the static content.
 6. **Git**: Cloned the website from GitHub onto the VMs using a custom script.
